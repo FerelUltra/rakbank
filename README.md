@@ -8,4 +8,5 @@ and show the label" I did not get. I
 Also mock api I did for non-existing url, but in my opinion, it is enough.
 To check out the app you need to download classically, install npm packages and run command 'vite'
 
+I deployed the app to https://ferelultra.github.io/rakbank/ , but it could take some time
 
